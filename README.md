@@ -1,4 +1,4 @@
-#Echo Events: An Event & Movie Ticketing Database Management System
+## Echo Events: An Event & Movie Ticketing Database Management System
 
 A SQL-based relational database system developed with PostgreSQL to manage event ticketing and related operations. This project demonstrates robust database design principles, including ER modeling, normalization, and the use of DDL/DML scripts to build and interact with the database.
 
@@ -36,6 +36,5 @@ A SQL-based relational database system developed with PostgreSQL to manage event
 ## Database Design Philosophy
 
 * *Clarity*: Schema clearly represents real-world event ticketing concepts.
-* *Scalability*: Tables and indexes optimized for efficient query performance under large data volumes.
 * *Maintainability*: Well-commented SQL scripts and modular design for easy updates and extensions.
 * *Integrity*: Enforcement of referential integrity and business rules via constraints.
